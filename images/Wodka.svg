@@ -7,8 +7,31 @@
    viewBox="0 0 69.243256 197.25291"
    version="1.1"
    id="svg1"
+   sodipodi:docname="Wodka.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0717311"
+     inkscape:cx="34.99012"
+     inkscape:cy="536.98171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <clipPath
@@ -46,4 +69,24 @@
        id="path5"
        clip-path="url(#clipPath6)" />
   </g>
+  <path
+     style="fill:#e5e5e5;stroke-width:0.264999;fill-opacity:1"
+     d="m 8.291923,117.65802 2.531218,11.08499 2.618503,-4.53873 1.571101,5.67342 6.022554,-13.09251 h -4.713303 l -0.872834,6.54625 -1.832952,-2.26937 -1.047401,2.26937 -0.960117,-5.93527 z"
+     id="path3" />
+  <path
+     id="path6"
+     style="fill:#e5e5e5;stroke-width:0.264999;fill-opacity:1"
+     d="M 27.145113 113.73053 L 21.122742 123.24416 C 21.122742 123.24416 22.169755 131.09974 22.257039 131.53616 C 22.344319 131.97258 28.279928 135.02742 28.279928 135.02742 L 34.040299 129.52853 L 34.040299 119.2289 L 27.145113 113.73053 z M 28.367261 118.96742 L 30.636373 119.05475 L 31.683854 126.1246 L 28.628743 129.09238 L 25.661483 124.81512 L 27.755929 119.2289 L 28.367261 118.96742 z " />
+  <path
+     id="path10"
+     style="fill:#e5e5e5;stroke-width:0.264999;fill-opacity:1"
+     d="M 38.142891 116.87245 L 37.706226 133.19445 L 46.783708 124.20431 L 46.609558 120.97504 L 38.142891 116.87245 z M 40.674003 121.32386 L 44.339929 123.24416 L 40.848669 125.94993 L 40.674003 121.32386 z " />
+  <path
+     style="fill:#e5e5e5;stroke-width:0.264999;fill-opacity:1"
+     d="m 48.616854,118.26901 -0.349134,15.36188 2.967635,-0.34914 -0.174566,-2.6185 3.054918,2.88035 1.134685,-3.1422 -3.84047,-3.57862 5.14972,-6.80811 -3.142202,-2.0948 -2.269368,3.75319 -0.610984,-4.18961 z"
+     id="path11" />
+  <path
+     id="path12"
+     style="fill:#e5e5e5;stroke-width:0.264999;fill-opacity:1"
+     d="M 62.494893 118.44342 L 59.090967 119.05475 L 56.908671 133.01979 L 59.876449 134.32927 L 60.92393 126.47342 L 61.796745 133.19445 L 64.240523 133.36912 L 62.494893 118.44342 z M 60.66193 122.02201 L 61.796745 125.07712 L 59.789115 125.25179 L 60.66193 122.02201 z " />
 </svg>
