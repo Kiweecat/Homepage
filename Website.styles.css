@@ -1,0 +1,31 @@
+/* /Layout/MainLayout.razor.rz.scp.css */
+.page[b-xtecwqdy6g] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-xtecwqdy6g] {
+    flex: 1;
+}
+
+@media (min-width: 641px) {
+    .page[b-xtecwqdy6g] {
+        flex-direction: row;
+    }
+}
+/* /Pages/Bar.razor.rz.scp.css */
+.cup[b-lf9nuz3vcu] {
+}
+/* /Pages/Home.razor.rz.scp.css */
+h1[b-anofs51nb4] {
+    color: #ffd68d
+}
+
+p[b-anofs51nb4] {
+    color: #aea79b;
+}
+
+button[b-anofs51nb4] {
+    
+}

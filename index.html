@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Website</title>
+    <base href="./" />
+    <link rel="stylesheet" href="./css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/app.css" />
+    <link rel="icon" type="image/svg" href="./images/test3.svg" />
+    <link href="./Website.styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        HILFE ES BRENNT AHHHHH (wenn Sie das auf der Seite sehen, habe ich wohl irgendwo versagt ): ).
+        <a href="" class="reload">Neuladen</a>
+        <a class="dismiss">🗙</a>
+    </div>
+		<script src="./_framework/blazor.webassembly.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+		<script src="./js/pdf.js"></script>
+</body>
+
+</html>

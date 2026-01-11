@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.556938mm"
+   height="197.38046mm"
+   viewBox="0 0 92.556938 197.38046"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         style="fill:#3f7998;stroke-width:0.264583"
+         d="M 45.720902,192.17647 126.01127,198.49562 131.21526,48.694618 104.82353,35.684606 100.73467,2.2302878 71.369211,1.1151439 69.510637,33.454316 38.658324,47.951189 Z"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         style="display:inline;fill:#1ea151;fill-opacity:1;stroke-width:0.264583"
+         d="M 45.720902,192.17647 126.01127,198.49562 131.21526,48.694618 104.82353,35.684606 100.73467,2.2302878 71.369211,1.1151439 69.510637,33.454316 38.658324,47.951189 Z"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-38.658322,-1.1151438)">
+    <path
+       style="display:inline;fill:#1ea151;fill-opacity:1;stroke-width:0.264583"
+       d="M 45.720902,192.17647 126.01127,198.49562 131.21526,48.694619 104.82353,35.684606 100.73467,2.2302878 71.36921,1.1151439 69.510638,33.454317 38.658323,47.951188 Z"
+       id="path1" />
+    <path
+       style="display:inline;fill:#c6ced0;fill-opacity:1;stroke-width:0.264583"
+       d="M 67.652063,-0.74342928 V 33.082603 l 42.933047,2.973718 c 0,0 -0.55758,-38.8441808 -1.85858,-38.8441808 -1.301,0 -41.074467,2.04443052 -41.074467,2.04443052 z"
+       id="path2"
+       clip-path="url(#clipPath3)" />
+    <path
+       style="display:inline;fill:#e1e1e1;fill-opacity:1;stroke-width:0.264583"
+       d="M 32.329559,108.02804 H 137.20349 v 43.36892 H 28.124089 Z"
+       id="path5"
+       clip-path="url(#clipPath6)" />
+    <path
+       style="fill:#c53222;fill-opacity:1;stroke-width:0.264583"
+       d="m 87.526367,51.517021 -19.713146,8.673784 1.314209,16.033358 13.667782,9.199468 22.604408,-6.571049 -0.26284,-15.770516 z"
+       id="path8" />
+  </g>
+</svg>
