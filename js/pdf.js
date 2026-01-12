@@ -22,5 +22,5 @@ window.generateOrderPdf = (orderData) => {
     doc.text(orderData.cocktailName + ", zubereitet mit:", 20, 18)
     doc.text("---Bestell-ID: " + orderData.orderId.toString(), 10, 120)
     
-    doc.save("order.pdf");
+    doc.save("Cocktail Bestellung.pdf");
 };
