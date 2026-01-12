@@ -23,10 +23,15 @@ p[b-anofs51nb4] {
     color: #aea79b;
 }
 /* /Pages/Orderpage.razor.rz.scp.css */
-h1[b-fm8t6p6eu3] {
+h1[b-fm8t6p6eu3], h2[b-fm8t6p6eu3] {
     color: #ffd68d
 }
 
 p[b-fm8t6p6eu3] {
+
     color: #aea79b;
+}
+
+.btn-primary[b-fm8t6p6eu3] {
+    font-size: 30px;
 }
